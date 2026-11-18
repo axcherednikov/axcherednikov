@@ -1,7 +1,11 @@
 <h1 align="center">Hey, I'm Alexander 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1100&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=55&amp;lines=Backend+Engineer+%7C+PHP+%7C+Go+%7C+C;High-performance+systems+%26+native+extensions;Building+AI-powered+developer+tools" alt="Backend Engineer — PHP, Go, C" />
+  <strong>Backend Engineer · PHP · Go · C</strong>
+</p>
+
+<p align="center">
+  <sub>High-performance systems · Native extensions · AI-powered developer tools</sub>
 </p>
 
 <p align="center">
