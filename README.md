@@ -21,11 +21,11 @@ I'm a backend engineer who likes understanding what's happening under the hood �
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Symfony-20232A?style=for-the-badge&amp;logo=symfony&amp;logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <a href="https://www.php.net/" title="PHP — learn more"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" /></a>
+  <a href="https://go.dev/" title="Go — learn more"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" /></a>
+  <a href="https://en.cppreference.com/w/c" title="C — learn more"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" /></a>
+  <a href="https://symfony.com/" title="Symfony — learn more"><img src="https://img.shields.io/badge/Symfony-20232A?style=for-the-badge&amp;logo=symfony&amp;logoColor=white" alt="Symfony" /></a>
+  <a href="https://git-scm.com/" title="Git — learn more"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" /></a>
 </p>
 
 ## 📌 Selected projects
